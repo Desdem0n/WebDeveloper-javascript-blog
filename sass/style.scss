@@ -13,6 +13,7 @@ $font-text: 'Source Sans Pro', sans-serif;
 
 *, *::before, *::after {
   box-sizing: border-box;
+  margin: 2px;
 }
 
 body {
@@ -117,4 +118,26 @@ body {
   p {
     margin: 0 10px 0 0;
   }
+}
+/*tag sizes*/
+.tag-size-1{
+  font-size: 100%;
+}
+.tag-size-2{
+  font-size: 160%;
+}
+.tag-size-3{
+  font-size: 170%;
+}
+.tag-size-4{
+  font-size: 180%;
+}
+.tag-size-5{
+  font-size: 190%;
+}
+.tag-size-6{
+  font-size: 200%;
+}
+.tag-size-7{
+  font-size: 220%;
 }
